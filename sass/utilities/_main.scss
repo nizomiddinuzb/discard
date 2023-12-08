@@ -1,0 +1,192 @@
+main {
+  .down__arrow {
+    max-width: 920.002px;
+    height: 320px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 264px;
+    margin-bottom: 80px;
+  }
+  @font-face {
+    font-family: "circual";
+    src: url(../../fonts/CircularStd-Book.ttf);
+  }
+  h2 {
+    font-family: "circual";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    color: #fff;
+  }
+  .down__p {
+    font-family: "circual";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #fff;
+  }
+  .down__a {
+    font-family: "circual";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    color: #6966ff;
+  }
+  .crowdfund {
+    max-width: 392px;
+    height: 560px;
+    background-color: #393953;
+    border-radius: 16px;
+    padding-left: 24px;
+    padding-top: 24px;
+  }
+  .crowdfund__words {
+    padding-left: 24px;
+    padding-top: 24px;
+  }
+  .crowdfundd {
+    max-width: 392px;
+    height: 560px;
+    background-color: #393953;
+    border-radius: 16px;
+    padding-top: 24px;
+    margin-bottom: 160px;
+  }
+  @font-face {
+    font-family: "Space";
+    src: url(../../fonts/SpaceMono-BoldItalic.ttf);
+  }
+  .crowdfund__p {
+    font-family: "Space";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a59eba;
+  }
+  .funding {
+    font-family: "circual";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    color: #ffffff;
+  }
+  .amount {
+    font-family: "Space";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a59eba;
+  }
+  .grant {
+    font-family: "circual";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .crowdfund__img {
+    padding-top: 152px;
+  }
+  .crowdfund__imgg {
+    margin-top: 18px;
+  }
+  .crowdfund__btn {
+    max-width: 392px;
+    height: 178.889px;
+    background-color: #232334;
+    margin-top: -24px;
+    border-radius: 16px;
+    border: none;
+  }
+  .display-flex {
+    display: flex;
+    gap: 24px;
+    max-width: 1224px;
+    margin: 0 auto;
+  }
+  .question {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+  .round {
+    display: flex;
+    max-width: 808px;
+    gap: 24px;
+    margin: 0 auto;
+    margin-bottom: 160px;
+  }
+  .one__round {
+    max-width: 392px;
+    height: 440px;
+    background-color: #393953;
+    border-radius: 16px;
+  }
+  .one__p {
+    font-family: "Space";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-left: 24px;
+    color: #c8c7d8;
+  }
+  .one__round__p {
+    font-family: "circual";
+    margin-top: 8px;
+    font-size: 24px;
+    margin-left: 24px;
+    font-style: normal;
+    font-weight: 700;
+    color: #ffffff;
+  }
+  .one__date {
+    font-family: "Space";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 80px;
+    margin-left: 24px;
+    color: #c8c7d8;
+  }
+}
+.twoo__section {
+  .single__words {
+    text-align: center;
+    max-width: 630px;
+    height: 120px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+  }
+  .section__div {
+    max-width: 768px;
+    height: 72px;
+    border-top: #393953 1px solid;
+    border-bottom: #393953 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .section__div a {
+    text-decoration: none;
+    font-family: "circual";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .container {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+}

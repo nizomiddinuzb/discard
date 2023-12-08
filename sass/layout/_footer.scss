@@ -1,0 +1,89 @@
+footer {
+  @font-face {
+    font-family: "circual";
+    src: url(../../fonts/CircularStd-Book.ttf);
+  }
+  @font-face {
+    font-family: "Space";
+    src: url(../../fonts/SpaceMono-BoldItalic.ttf);
+  }
+  .blue__section {
+    max-width: 1224px;
+    height: 284px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-color: #6966ff;
+    text-align: center;
+    align-items: center;
+    padding-top: 40px;
+    margin-bottom: 160px;
+    margin-top: 80px;
+  }
+  .blue__p {
+    font-family: "circual";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .blue__word {
+    font-family: "circual";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    color: #fff;
+  }
+  .blue__button {
+    cursor: pointer;
+    font-family: "circual";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    color: #6966ff;
+    max-width: 169px;
+    height: 48px;
+    border: none;
+    border-radius: 7.29px;
+    transition: 0.3s;
+  }
+  .blue__button:hover {
+    background-color: blueviolet;
+  }
+  .blue__button:active {
+    background-color: red;
+  }
+  .last__section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1223px;
+    height: 60px;
+    margin: 0 auto;
+    align-items: center;
+  }
+  .last__ul {
+    display: flex;
+    gap: 32px;
+  }
+  .last__ul li {
+    list-style: none;
+  }
+  .last__ul a {
+    text-decoration: none;
+    font-family: "Space";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #c8c7d8;
+  }
+  .display {
+    display: flex;
+  }
+  .images {
+    gap: 32px;
+    display: flex;
+  }
+}
